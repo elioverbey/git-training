@@ -120,3 +120,5 @@ There are a few things that are helpful to know about the development/deployment
 - `mina deploy` is simply a controller for deployment -- nothing is transferred from your local environment. In fact, you could run `mina deploy` without even having a local site set up, as long as the scripts are in place
 - You can use `ssh-add -K ~/.ssh/id_rsa` to permanently add your key 
 - If you want to track anything in the uploads folder, you must add it to .gitignore (see .gitignore for syntax and examples)
+
+- YEA!!!
